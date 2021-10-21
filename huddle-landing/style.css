@@ -26,6 +26,10 @@ body{
     justify-content: center;
 }
 
+.logo-container{
+    align-self: flex-start;
+}
+
 .logo-container img{
      width: 120px;
 }
