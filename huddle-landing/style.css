@@ -22,6 +22,8 @@ body{
     color: whitesmoke;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .logo-container img{
