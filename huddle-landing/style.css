@@ -14,6 +14,7 @@
 body{
     font-family: 'Open Sans', 'sans-serif';
     padding: 50px;
+    width: 100wh;
     background-image: url(images/bg-mobile.svg);
     background-size: contain;
     background-repeat: no-repeat;
